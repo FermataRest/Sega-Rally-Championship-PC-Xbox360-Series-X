@@ -14,7 +14,7 @@ An easy way to play one of Sega's most influential racers on modern hardware wit
 - CRT filters
 - Controller and wheel support
 - Force feedback support
-- System Link and online play support
+- System Link and online play support up to 4 players
 - Cross-play
 - Custom soundtrack support
 
