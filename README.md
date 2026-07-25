@@ -5,7 +5,7 @@
 > **Please note:** No ROMs or soundtracks are supplied with this wrapper. You must supply your own legally acquired game ROM and music files.
 
 > **Required ROM:**  
-> segarallyc.zip - Standalone set - Sega Rally Championship - Twin/DX (Revision C)
+> srallyc.zip - Standalone set - Sega Rally Championship - Twin/DX (Revision C)
 
 An easy way to play one of Sega's most influential racers on modern hardware with quality-of-life improvements such as:
 
@@ -22,7 +22,7 @@ An easy way to play one of Sega's most influential racers on modern hardware wit
 ## PC
 
 1. Extract the zip file where you would like to run it from.
-2. Place your own `segarallyc.zip` into the `roms` folder.
+2. Place your own `srallyc.zip` into the `roms` folder.
 3. Place your soundtrack files into the `soundtrack` folder. Ensure tracks are renamed according to the table below.
 4. Run `SegaRally.exe`.
 
@@ -32,7 +32,7 @@ When selecting multiplayer for the first time, you will be prompted to allow Seg
 ## Xbox 360
 
 1. Extract the zip file.
-2. Place your own `segarallyc.zip` into the `roms` folder.
+2. Place your own `srallyc.zip` into the `roms` folder.
 3. Place your soundtrack files into the `soundtrack` folder. Ensure tracks are renamed according to the table below.
 4. Place the extracted folder on your Xbox 360 HDD.
 5. Run `default.xex`.
@@ -41,7 +41,7 @@ When selecting multiplayer for the first time, you will be prompted to allow Seg
 ## Xbox Series X
 
 1. Install the `.appx` file through the developer portal as you would with any other Dev Mode application.
-2. Place `segarallyc.zip` on the root of a USB device.
+2. Place `srallyc.zip` on the root of a USB device.
 3. If installing a custom soundtrack, place the renamed tracks inside a folder called `soundtrack` on the root of the USB device.
 4. Launch the app on the console.
 
